@@ -3,7 +3,7 @@
 In this challenge we are exploring the Nav Bar  
 further.
 
-In this project we create an Nav Bar in which each dropdown  
+In this project we create a Nav Bar in which each dropdown menu  
 has a background that adapts to the contents size and height.
 
 Features:  
